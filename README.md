@@ -1,4 +1,4 @@
-# BABSHA: Behavioral Analysis of Bangladeshi Shoppers in E-Commerce Arena Using TPB, Machine Learning, and Large Language Models
+# Beyond theory-driven models: evaluation of preceding factors affecting Bangladeshi online shoppers purchase intention
 
 ## Overview
 This project explores key factors influencing consumer behavior in the rapidly growing e-commerce sector of Bangladesh. By integrating the **Theory of Planned Behavior (TPB)** with machine learning techniques and **Large Language Models (LLMs)**, we aim to identify the attitudes, social norms, and perceived behavioral control that significantly affect online purchase decisions. 
